@@ -1,0 +1,3 @@
+*.weights
+*frozen_darknet_yolov3_model_full.pb
+*frozen_darknet_yolov3_model_full.bin
